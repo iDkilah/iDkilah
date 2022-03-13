@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iDkilah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning С#
+- 🌱 I’m currently learning С# and Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me iDkilah@ya.ru
 
